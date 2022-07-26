@@ -45,7 +45,7 @@ Untuk pengguna Unix, gunakan cara sesuai distro atau rujuk [laman ini](https://n
 
 ### Telegram
 
-<img src="https://i.ibb.co/g6t9mZW/Screenshot-20220726-161052.png" height="50">
+<img src="https://i.ibb.co/g6t9mZW/Screenshot-20220726-161052.png" height="200">
 
 - Buat bot, baca bagaimana caranya [di sini](https://core.telegram.org/bots/faq#how-do-i-create-a-bot)
 - Matikan _bot privacy_, kirim `/setprivacy` ke [@BotFather](https://telegram.me/BotFather).  
