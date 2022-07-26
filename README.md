@@ -5,7 +5,7 @@
 `Telbot-Groups` adalah sebuah bot sederhana untuk memoderasi grup [Telegram](https://t.me/bin_196006241987011001_bot).  
 Bot ini adalah _fork_ dari [ThorsHammer](https://github.com/imhunterand/telbot-groups) _branch_ `openshift` yang ditulis dalam JavaScript dan menggunakan mongoDB sebagai _database_.
 
-`Telbot-Groups` dikhususkan untuk diterapkan di [OpenShift](https://www.openshift.com/). Jika Anda membutuhkan bot yang bisa diterapkan ke layanan lain, silahkan rujuk [ThorsHammer](https://github.com/imhunterand/telbot-groups).
+`Telbot-Groups` dikhususkan untuk diterapkan di [OpenShift](https://www.openshift.com/). Jika Anda membutuhkan bot yang bisa diterapkan ke layanan lain, silahkan rujuk [Imhunterand](https://github.com/imhunterand/telbot-groups).
 
 Silakan coba [@Telbot-Groups](https://t.me/bin_196006241987011001_bots) untuk demo.
 
