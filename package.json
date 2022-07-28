@@ -4,7 +4,7 @@
   "description": "A simple, plugin-wielding, and multipurpose Node.js Telegram bot.",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js" 
   },
   "keywords": [
     "telegram",
@@ -22,6 +22,8 @@
     "moment": "^2.17.1",
     "mongoose": "^5.13.9",
     "node-cron": "^1.1.2",
+    "node-scrapy": "^0.4.0",
+    "node-telegram-bot-api": "^0.58.0",
     "node-scrapy": "^0.5.0",
     "node-telegram-bot-api": "^0.27.1",
     "tg-resolve": "^1.3.1",
