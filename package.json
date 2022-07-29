@@ -20,7 +20,7 @@
     "adhan": "^2.0.1",
     "feedparser": "^2.2.0",
     "moment": "^2.17.1",
-    "mongoose": "^5.13.9",
+    "mongoose": "^6.4.6",
     "node-cron": "^1.1.2",
     "node-scrapy": "^0.4.0",
     "node-telegram-bot-api": "^0.58.0",
