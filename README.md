@@ -54,7 +54,7 @@ Baca informasi lebih lanjut mengenai _privacy_ [di sini](https://core.telegram.o
 - Dapatkan `user_id` Anda dengan cara yang sama tersebut di atas.
 - Buka `data/config.json` dan masukkan _token_, `chat_id`, dan `user_id`.
 
-### Openshift
+### Openshift 
 
 <img src="http://www.opencloudconf.com/images/openshift_logo.png" width="200">
 
